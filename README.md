@@ -5,7 +5,7 @@ Experience the integration of Snowflake's cloud data platform in a practical set
 
 
 
-#App 
+# App 
 ![App](images/app_success.png)
 
 # Course
